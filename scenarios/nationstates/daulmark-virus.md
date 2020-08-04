@@ -14,4 +14,8 @@ This station is a proud participant of the Daulmark Public Warning System and it
 
 About 30 minutes later...
 
-MSG2:
+RadioMSG1: The Imperial Government issued a new law regarding minimum wage. It is expected to rise to 5 thousand 2 hundred Kurzens per month, which is pretty impressive comparing to 2 thousand Kurzens only 35 years ago. Other news - the autarky is working well, says Minister of Industry...
+
+MSG2: We interrupt our programming. This message is being transmitted at the request of the Redcliff Emergency Management Service.
+This station has interrupted its programming at the request of the Redcliff Emergency Management Service to transmit a message.
+This is an update to the Local Emergency message issued 30 minutes ago. 
