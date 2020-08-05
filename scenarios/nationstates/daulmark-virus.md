@@ -8,7 +8,7 @@ This station has interrupted its programming at the request of the Redcliff Emer
 
 This is a Local Emergency for the following areas: Redcliff. Effective from now on until 18:00:00 Daulmark Standard Time.
 
-About 25 minutes ago, a cloud of unknown gas was released from the Redcliff Central Hospital. All residents within 500 meters radius are ordered to put on a mask to protect their lungs and to evacuate immediately. 
+About 25 minutes ago, a cloud of unknown green- and yellow-colored gas was released from the Redcliff Central Hospital. All residents within 500 meters radius are ordered to put on a mask to protect their lungs and to evacuate immediately. 
 
 For the residents that can't evacuate on foot there are community provided vehicles that are waiting at bus stops. Please bring with yourself enough food, water and your documents. Stay tuned to this station for updates on this situation.
 
@@ -22,6 +22,8 @@ MSG2: We interrupt our programming. This message is being transmitted at the req
 
 This station has interrupted its programming at the request of the Redcliff Emergency Management Service to transmit a message.
 
+Listen carefully, instructions will follow.
+
 This is a Chemical Hazard Warning for thr following areas: Redcliff. Effective from now on until 21:45:00 Daulmark Standard Time.
 
 The cloud was found to be extremely dangerous. However, civil gas masks can protect you from it for about half an hour.
@@ -29,5 +31,29 @@ The cloud was found to be extremely dangerous. However, civil gas masks can prot
 All citizens in the 1 kilometer radius are ordered to stay at home, seal all doors and windows, turn off ventilation and stay tuned to media outlets for information.
 
 Those who inhaled the gas can report to the nearest hospitals or call emergency medical vehicle.
+
+This station is a proud participant of the Daulmark Public Warning System and will now resume its regular programming.
+
+About an hour later...
+
+MSG3: We interrupt our programming. This message is being transmitted at the request of the Redcliff Emergency Management Service.
+
+This station has interrupted its programming at the request of the Redcliff Emergency Management Service to transmit a message. 
+
+Listen carefully, instructions will follow.
+
+This is an update to the Chemical Hazard Warning issued an hour ago for Redcliff area, now effective until 00:00:00 Daulmark Standard Time.
+
+The cloud continues to spread rapidly. Contamination efforts were ineffective and it is now spreading in the southern direction.
+
+A curfew is issued in Redcliff from 8 PM until the next morning. All residents of South Redcliff should do the following instructions:
+- Close and seal all windows and doors.
+- Turn off ventilation.
+- Prepare several face masks and wet them with a mix of water and sodium carbonate.
+- Do not go outside until all-clear is given if not necessary.
+- Report all contact with gas cloud to the nearest hospital.
+Symptoms of inhalation include, but are not limited to: chest pain, sore throat, hard breathing and pain in lungs.
+
+Stay tuned to media outlets for information on this situation.
 
 This station is a proud participant of the Daulmark Public Warning System and will now resume its regular programming.
