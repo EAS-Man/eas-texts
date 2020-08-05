@@ -36,9 +36,9 @@ This station is a proud participant of the Daulmark Public Warning System and wi
 
 About an hour later...
 
-MSG3: We interrupt our programming. This message is being transmitted at the request of the Redcliff Emergency Management Service.
+MSG3: We interrupt our programming. This message is being transmitted at the request of the Redcliff Emergency Management Service in cooperation with Redcliff National Interior Guard Department.
 
-This station has interrupted its programming at the request of the Redcliff Emergency Management Service to transmit a message. 
+This station has interrupted its programming at the request of the Redcliff Emergency Management Service in cooperation with Redcliff National Interior Guard Department to transmit a message. 
 
 Listen carefully, instructions will follow.
 
@@ -52,7 +52,7 @@ A curfew is issued in Redcliff from 8 PM until the next morning. All residents o
 - Prepare several face masks and wet them with a mix of water and sodium carbonate.
 - Do not go outside until all-clear is given if not necessary.
 - Report all contact with gas cloud to the nearest hospital.
-Symptoms of inhalation include, but are not limited to: chest pain, sore throat, hard breathing and pain in lungs.
+Symptoms of inhalation include, but are not limited to: chest pain, sore throat, hard breathing and blood vomiting.
 
 Stay tuned to media outlets for information on this situation.
 
