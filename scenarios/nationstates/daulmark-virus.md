@@ -30,7 +30,7 @@ The cloud was found to be extremely dangerous. However, civil gas masks can prot
 
 All citizens in the 1 kilometer radius are ordered to stay at home, seal all doors and windows, turn off ventilation and stay tuned to media outlets for information.
 
-Those who inhaled the gas are advised to the nearest hospitals or call emergency medical vehicle.
+Those who inhaled the gas are advised to seek help in the nearest hospitals or call emergency medical vehicle by dialing 6 0 6 on your phone.
 
 This station is a proud participant of the Daulmark Public Warning System and will now resume its regular programming.
 
