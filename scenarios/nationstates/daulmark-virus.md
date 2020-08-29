@@ -30,7 +30,7 @@ The cloud was found to be extremely dangerous. However, civil gas masks can prot
 
 All citizens in the 1 kilometer radius are ordered to stay at home, seal all doors and windows, turn off ventilation and stay tuned to media outlets for information.
 
-Those who inhaled the gas can report to the nearest hospitals or call emergency medical vehicle.
+Those who inhaled the gas are advised to the nearest hospitals or call emergency medical vehicle.
 
 This station is a proud participant of the Daulmark Public Warning System and will now resume its regular programming.
 
@@ -42,7 +42,7 @@ This station has interrupted its programming at the request of the Redcliff Emer
 
 Listen carefully, instructions will follow.
 
-This is an update to the Chemical Hazard Warning issued an hour ago for Redcliff area, now effective until 00:00:00 Daulmark Standard Time.
+This is an update to the Chemical Hazard Warning issued an hour ago for Redcliff area, now effective until 12:00:00 Daulmark Standard Time the next day.
 
 The cloud continues to spread rapidly. Contamination efforts were ineffective and it is now spreading in the southern direction.
 
@@ -57,3 +57,4 @@ Symptoms of inhalation include, but are not limited to: chest pain, sore throat,
 Stay tuned to media outlets for information on this situation.
 
 This station is a proud participant of the Daulmark Public Warning System and will now resume its regular programming.
+
