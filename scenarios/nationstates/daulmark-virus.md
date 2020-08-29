@@ -24,7 +24,7 @@ This station has interrupted its programming at the request of the Redcliff Emer
 
 Listen carefully, instructions will follow.
 
-This is a Chemical Hazard Warning for thr following areas: Redcliff. Effective from now on until 21:45:00 Daulmark Standard Time.
+This is a Chemical Hazard Warning for the following areas: Redcliff. Effective from now on until 21:45:00 Daulmark Standard Time.
 
 The cloud was found to be extremely dangerous. However, civil gas masks can protect you from it for about half an hour.
 
