@@ -58,3 +58,6 @@ Stay tuned to media outlets for information on this situation.
 
 This station is a proud participant of the Daulmark Public Warning System and will now resume its regular programming.
 
+Text: You rush to your home, grab all necessary stuff and run to the car. Next minute you're already driving to the city of Kernerburg, still tuned to the Redcliff Radio. 
+
+RadioMSG2: This is, this is Recliff General Radio. Operating 24 hours a day, 7 days a week. Ha ha. Anyway, the cloud of gas has completely engulfed the radio center and I'm not sure that the windows won't let this damn gas in. Even if we're going to die, we'll help the more lucky ones. The DPWS equipment will be left running so you will be notified of everything. This is Anne Wismar, signing off. Thank you for being with us and good luck.
